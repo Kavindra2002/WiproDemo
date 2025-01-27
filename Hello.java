@@ -15,6 +15,17 @@ public class Hello {
         return a - b;
     }
 
+//added multilication and modulo in new branch
+
+    public static int multiplication(int a, int b) {
+        return a * b;
+    }
+
+    // Method for modulo
+    public static int modulo(int a, int b) {
+        return a % b;
+    }
+
 	//instance  variable  object creation is needed for 
 	
 	int i =10 ; // instance variabe  // instance  Heap memory   objects
